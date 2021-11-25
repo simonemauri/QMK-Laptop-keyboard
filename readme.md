@@ -1,6 +1,6 @@
 # QMK-based firmware for laptop keyboards
 
-![Videowriter](https://i.imgur.com/zNTHmZa.jpg)
+![Videowriter]("NSK-H360E - Keyboard ACER ASPIRE 5520.jpg")
 
 Keyboard model: NSK-H360E 
 Laptop: ACER ASPIRE 5520
