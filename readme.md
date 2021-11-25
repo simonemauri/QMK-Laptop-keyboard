@@ -8,7 +8,7 @@ Laptop: ACER ASPIRE 5520
 
 Language: ITA
 
-# NSK-H360E ITA!
+# NSK-H360E (ITA)
 
 ## Keyboard Layout
 
