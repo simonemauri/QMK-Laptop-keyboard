@@ -16,4 +16,4 @@ Language: ITA
 Work in progress....
 And, just in case, you could 
 
-![icon](https://user-images.githubusercontent.com/37624798/143455425-626c942f-8664-4fda-8794-f6fa3d90b556.png) [BUY ME A COFFEE](https://docs.qmk.fm/#/feature_command)
+![icon](https://user-images.githubusercontent.com/37624798/143455425-626c942f-8664-4fda-8794-f6fa3d90b556.png) [BUY ME A COFFEE](https://www.buymeacoffee.com/Sim1)
