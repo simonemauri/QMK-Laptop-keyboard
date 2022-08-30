@@ -13,18 +13,18 @@ Language: ITA
 ## Keyboard Layout
 
 ### STM32 pinout
-| rows        | 0   | 1   | 2   | 3   | 4   |
-| ----------- | --- | --- | --- | --- | --- |
-| arduino pin | 2   | 4   | 5   | 6   | 7   |
-| qmk pin     | D1  | D4  | C6  | D7  | E6  |
+| rows        | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
+| ----------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STM32 pin   | B11 | B10 | B1  | B0  | A7  | A6  | A5  | A5  |
 
-| columns     | 0   | 1   | 2   | 3   |
-| ----------- | --- | --- | --- | --- |
-| arduino pin | 16  | 15  | A1  | A3  |
-| qmk pin     | B5  | B4  | B3  | C3  |
+| columns     | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  | 17  |
+| ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| STM32 pin   | A3  | A2  | A1  | A0  | B12 | B13 | B14 | B15 | A8  | A9  | A10 | A15 | B3  | B4  | B5  | B9  | B15 | B14 |
 
 
 Work in progress....
 And, just in case, you could 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B377D0E)
+
+* Keyboard Maintainer: [Karlssn](https://github.com/simonemauri)
