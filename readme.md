@@ -12,6 +12,17 @@ Language: ITA
 
 ## Keyboard Layout
 
+### STM32 pinout
+| rows        | 0   | 1   | 2   | 3   | 4   |
+| ----------- | --- | --- | --- | --- | --- |
+| arduino pin | 2   | 4   | 5   | 6   | 7   |
+| qmk pin     | D1  | D4  | C6  | D7  | E6  |
+
+| columns     | 0   | 1   | 2   | 3   |
+| ----------- | --- | --- | --- | --- |
+| arduino pin | 16  | 15  | A1  | A3  |
+| qmk pin     | B5  | B4  | B3  | C3  |
+
 
 Work in progress....
 And, just in case, you could 
