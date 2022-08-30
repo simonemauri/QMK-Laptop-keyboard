@@ -25,4 +25,4 @@ Language: ITA
 Work in progress....
 And, just in case, you could   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B377D0E)
 
-* Keyboard Maintainer: [Karlssn](https://github.com/simonemauri)
+* Keyboard Maintainer: [Simone Mauri](https://github.com/simonemauri)
